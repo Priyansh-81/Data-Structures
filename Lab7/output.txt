@@ -1,0 +1,47 @@
+Enter choice: 1
+Enter element to enter
+2
+Enter choice: 2
+Enter the element you want to enter
+Enter to insert:	23
+Enter the element you want to insert before:	2
+Enter choice: 5
+23	2	
+Enter choice: 3
+Enter the element after which insertion is required
+2
+Enter element to enter
+23
+Enter choice: 5
+23	2	23	
+Enter choice: 3
+Enter the element after which insertion is required
+23
+Enter element to enter
+55
+Enter choice: 5
+23	55	2	23	
+Enter choice: 1
+Enter element to enter
+34
+Enter choice: 5
+34	23	55	2	23	
+Enter choice: 4
+Enter the element you want to delete...	23
+Enter choice: 5
+34	55	2	23	
+Enter choice: 6
+Enter choice: 5
+23	2	55	34	
+Enter choice: 7
+Enter choice: 5
+2	23	34	55	
+Enter choice: 8
+Enter choice: 5
+2	34	
+Enter choice: 9
+Enter element to insert:
+17
+Enter choice: 5
+2	17	34	
+Enter choice: 0
